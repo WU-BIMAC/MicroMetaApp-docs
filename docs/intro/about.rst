@@ -16,3 +16,5 @@ Features include:
 * Pilot integration into the popular OMERO image data repository
 
 To find out more, check out the tutorials to see some of what it can do.
+
+`original publication introducing QuPath <https://doi.org/10.1038/s41598-017-17204-5>`_
