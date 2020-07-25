@@ -8,7 +8,10 @@ Micro-Meta App collects Microscopy Hardware, Imaging Acquisition Settings and Qu
 
 4DN Nucleome-BINA Microscopy Metadata Guidelines<https://arxiv.org/abs/1910.11370>
 
-.. _4DN Nucleome-BINA Microscopy Metadata Guidelines: https://arxiv.org/abs/1910.11370, which are an extension of the [OME data model](https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html) and have been developed in the context of the [4D Nucleome (4DN) initiative](https://www.4dnucleome.org/) and by the [Bioimaging North America](https://www.bioimagingna.org) [Quality Control and Data Management Working Group](https://www.bioimagingna.org/qc-dm-wg).
+.. _4DN Nucleome-BINA Microscopy Metadata Guidelines: https://arxiv.org/abs/1910.11370, 
+
+
+which are an extension of the [OME data model](https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html) and have been developed in the context of the [4D Nucleome (4DN) initiative](https://www.4dnucleome.org/) and by the [Bioimaging North America](https://www.bioimagingna.org) [Quality Control and Data Management Working Group](https://www.bioimagingna.org/qc-dm-wg).
 
 Features include:
 
