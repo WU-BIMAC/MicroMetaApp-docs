@@ -9,7 +9,7 @@ Micro-Meta App collects Microscopy Hardware, Imaging Acquisition Settings and Qu
 Features include:
 
 * Intuitive graphical user interface metadata collection modality
-* Compatibility with the [OME data model](https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html)
+* Compatibility with the `OME data model <https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html>`_
 * Definition of Microscope Hardware specifications metadata to build re-usable Microscope JSON files that can be exchanged with other members of the community
 * Easy to use as standalone app
 * Easy to integrate into pre-existing repositories
