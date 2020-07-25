@@ -6,7 +6,9 @@ What is Micro-Meta App?
 
 Micro-Meta App collects Microscopy Hardware, Imaging Acquisition Settings and Quality Control metadata on the basis of the 
 
-`4DN Nucleome-BINA Microscopy Metadata Guidelines<https://arxiv.org/abs/1910.11370>`_ 
+`4DN Nucleome-BINA Microscopy Metadata Guidelines <https://arxiv.org/abs/1910.11370>`_ 
+
+`Github <https://github.com/>`_
 
 
 .. _4DN Nucleome-BINA Microscopy Metadata Guidelines: https://arxiv.org/abs/1910.11370, 
