@@ -8,7 +8,7 @@ Micro-Meta App collects Microscopy Hardware, Imaging Acquisition Settings and Qu
 
 `4DN Nucleome-BINA Microscopy Metadata Guidelines <https://arxiv.org/abs/1910.11370>`_ 
 
-which are an extension of the OME data model_ and have been developed in the context of the [4D Nucleome (4DN) initiative](https://www.4dnucleome.org/) and by the [Bioimaging North America](https://www.bioimagingna.org) [Quality Control and Data Management Working Group](https://www.bioimagingna.org/qc-dm-wg).
+which are an extension of the 'OME data model'_ and have been developed in the context of the [4D Nucleome (4DN) initiative](https://www.4dnucleome.org/) and by the [Bioimaging North America](https://www.bioimagingna.org) [Quality Control and Data Management Working Group](https://www.bioimagingna.org/qc-dm-wg).
 
 Features include:
 
@@ -22,4 +22,4 @@ Features include:
 To find out more, check out the tutorials to see some of what it can do.
 
 
-.. _OME data model: https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html
+.. _'OME data model': https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html
