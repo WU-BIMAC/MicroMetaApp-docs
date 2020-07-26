@@ -6,7 +6,7 @@ This page hosts the documentation for the standalone implementation of Micro-Met
 
 .. sidebar:: Using the OMERO Micro-Meta App plugin?
   
-  In case you are using the OMERO Micro-Meta App plugin the documentation is `available on here <>`_.
+  The documentation is `available on here <>`_.
 
 .. toctree::
    :maxdepth: 2
