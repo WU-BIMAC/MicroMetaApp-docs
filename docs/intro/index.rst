@@ -7,6 +7,4 @@ Introduction
 
   about
   installation
-  formats
-  acknowledgements
   citing
