@@ -12,10 +12,7 @@ This page hosts the documentation for Micro-Meta App |version|.
    :maxdepth: 2
    :caption: Contents:
 
-   docs/about
-   docs/installation
-   docs/help
-
+   docs/intro/index
 
 .. Indices and tables
 .. ==================
