@@ -1,4 +1,4 @@
 Need Help?
 ==========
 
-If you have any problems using Micro-Meta App please contact caterina.strambio@umassmed.edu
+If you have any problems using Micro-Meta App please contact caterina.strambio@umassmed.edu or alex.rigano@umassmed.edu.
