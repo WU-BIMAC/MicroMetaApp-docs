@@ -8,7 +8,6 @@ Welcome to MicroMetaApp's documentation!
 
 This page hosts the documentation for the standalone implementation of Micro-Meta App |version|.
 
-
 Tutorial
 ========
 
@@ -19,9 +18,8 @@ Tutorial
    help
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. Indices and tables
+.. ==================
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
