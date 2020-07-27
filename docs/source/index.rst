@@ -8,9 +8,6 @@ Welcome to MicroMetaApp's documentation!
 
 This page hosts the documentation for the standalone implementation of Micro-Meta App |version|.
 
-.. sidebar:: Using the OMERO Micro-Meta App plugin?
-
-  The documentation is `available on here <>`_.
 
 Tutorial
 ========
@@ -18,9 +15,8 @@ Tutorial
 .. toctree::
    :maxdepth: 2
 
-   license
+   about
    help
-
 
 
 Indices and tables
