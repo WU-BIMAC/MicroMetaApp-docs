@@ -14,8 +14,8 @@ Tutorial
 .. toctree::
    :maxdepth: 2
 
-   about
-   help
+   docs/about
+   docs/help
 
 
 .. Indices and tables
