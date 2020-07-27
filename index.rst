@@ -6,13 +6,11 @@
 Welcome to MicroMetaApp's documentation!
 ========================================
 
-This page hosts the documentation for the standalone implementation of Micro-Meta App |version|.
-
-Tutorial
-========
+This page hosts the documentation for Micro-Meta App |version|.
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
    docs/about
    docs/help
