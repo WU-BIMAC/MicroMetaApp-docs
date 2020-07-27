@@ -13,6 +13,7 @@ This page hosts the documentation for Micro-Meta App |version|.
    :caption: Contents:
 
    docs/about
+   docs/installation
    docs/help
 
 
