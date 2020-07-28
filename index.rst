@@ -13,6 +13,7 @@ This page hosts the documentation for Micro-Meta App |version|.
    :caption: Contents:
 
    docs/intro/index
+   docs/tutorial/index
 
 .. Indices and tables
 .. ==================
