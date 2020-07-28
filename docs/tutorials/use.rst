@@ -21,8 +21,9 @@ Select the Tier level you are interested in and click on “Create microscope”
 
   Click on the Tier selection menu.
 
---------
-.. figure:: images/use_images/02_Select Tier_2.png
+------
+
+.. figure:: images/use_images/02_Select-Tier_2.png
   :class: shadow-image
   :width: 90%
   :align: center
@@ -33,7 +34,9 @@ Select the Tier level you are interested in and click on “Create microscope”
 Step 2
 ------
 Click on “Create microscope” and select one of the three options. “Create from scratch” allows you to create a new Microscope file. “Load from file” allows you to import a Microscope file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from Repository” allows you to work on a Microscope file that has already been imported in the App and you might need to modify.
+
 A.2 Creating from scratch
+=========================
 
 After selecting “Create from scratch”, hit “Confirm” and an empty Canvas will appear. To start building a new Microscope file, first hit “Edit Microscope”, enter the required attributes and hit “Confirm”. To add Hardware components follow instructions below.
 
@@ -87,6 +90,7 @@ After selecting “Load from repository”, choose the pre-existing Microscope f
   Select “Load from repository” to open an existing Microscope file to edit.
 
 --------
+
 .. figure:: images/use_images/07_Load_from_repository_2.png
   :class: shadow-image
   :width: 90%
@@ -134,6 +138,7 @@ Fields that are mandatory for the Tier-validation level you have selected are ma
   Edit Objective’s attributes.
 
 -----
+
 .. figure:: images/use_images/11_Confirm_attributes.png
   :class: shadow-image
   :width: 90%
