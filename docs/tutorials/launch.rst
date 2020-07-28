@@ -20,7 +20,7 @@ B - Launching the Micro-Meta App from the 4DN Data Portal
 *********************************************************
 Instructions on how to use the Micro-Meta App in the context of the `4D Nucleome Data Portal <>`_ are coming up soon.
 
-.. figure:: images/launch_images/4DN_launch/01_Micro-Meta App_4DN.png
+.. figure:: images/launch_images/4DN_launch/01_Micro-Meta-App_4DN.png
   :class: shadow-image
   :width: 90%
   :align: center
