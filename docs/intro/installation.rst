@@ -1,10 +1,10 @@
-************
+============
 Installation
-************
+============
 
-==================
+******************
 Download & install
-==================
+******************
 
 Download Micro-Meta App for your platform (Windows, Linux, macOS) from `GitHub <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReactElectron/releases>`_ and install 'as normal':
 
