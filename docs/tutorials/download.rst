@@ -14,7 +14,7 @@ A - Download from the Safari browser
   :width: 90%
   :align: center
 
-  Downloading Micro-Meta App from Dropbox using Safari.
+  Figure 1: Downloading Micro-Meta App from Dropbox using Safari.
 
 ************************************
 B - Download from the Chrome browser
@@ -26,7 +26,7 @@ Step 1
   :width: 90%
   :align: center
 
-  Select the appropriate version to download depending on your operating system.
+  Figure 2: Select the appropriate version to download depending on your operating system.
 
 Step 2
 ======
@@ -35,7 +35,7 @@ Step 2
   :width: 90%
   :align: center
 
-  Select the destination folder for Micro-Meta App.
+  Figure 3: Select the destination folder for Micro-Meta App.
 
 Step 3
 ======
@@ -44,7 +44,7 @@ Step 3
   :width: 90%
   :align: center
 
-  Locate downloaded Micro-Meta App.
+  Figure 4: Locate downloaded Micro-Meta App.
 
 Step 4
 ======
@@ -53,7 +53,7 @@ Step 4
   :width: 90%
   :align: center
 
-  Un-zip and launch Micro-Meta App.
+  Figure 5: Un-zip and launch Micro-Meta App.
 
 *************************************
 C - Download from the Firefox browser
@@ -65,7 +65,7 @@ Step 1
   :width: 90%
   :align: center
 
-  Select the appropriate version to download depending on your operating system.
+  Figure 6: Select the appropriate version to download depending on your operating system.
 
 Step 2
 ======
@@ -74,7 +74,7 @@ Step 2
   :width: 90%
   :align: center
 
-  Select the destination folder for Micro-Meta App.
+  Figure 7: Select the destination folder for Micro-Meta App.
 
 Step 3
 ======
@@ -83,7 +83,7 @@ Step 3
   :width: 90%
   :align: center
 
-  Locate downloaded Micro-Meta App.
+  Figure 8: Locate downloaded Micro-Meta App.
 
 Step 4
 ======
@@ -92,4 +92,4 @@ Step 4
   :width: 90%
   :align: center
 
-  Un-zip and launch Micro-Meta App.
+  Figure 9: Un-zip and launch Micro-Meta App.

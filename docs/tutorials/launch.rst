@@ -13,7 +13,7 @@ Locate the Micro-Meta App on your local computer and double click on the icon to
   :width: 90%
   :align: center
 
-  Downloading Micro-Meta App from Dropbox using Safari.
+  Figure 1: Downloading Micro-Meta App from Dropbox using Safari.
 
 *********************************************************
 B - Launching the Micro-Meta App from the 4DN Data Portal
@@ -38,7 +38,7 @@ Use the OMERO login credentials provided to you by the UMMS-PMM OMERO server adm
   :width: 90%
   :align: center
 
-  Login into the OMERO server.
+  Figure 2: Login into the OMERO server.
 
 Step 3
 ======
@@ -53,7 +53,7 @@ In order to see the microscopes, you will have to access the data owned by Alex 
   :width: 90%
   :align: center
 
-  Switch user.
+  Figure 3: Switch user to access saved Microscope files.
 
 Step 5
 ======
@@ -64,7 +64,7 @@ Now you will see the “Microscope” project and you will be able to see the av
   :width: 90%
   :align: center
 
-  Launch Micro-Meta App.
+  Figure 4: Launch Micro-Meta App.
 
 Step 6
 ======
