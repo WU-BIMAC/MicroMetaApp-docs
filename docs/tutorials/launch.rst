@@ -18,7 +18,7 @@ Locate the Micro-Meta App on your local computer and double click on the icon to
 *********************************************************
 B - Launching the Micro-Meta App from the 4DN Data Portal
 *********************************************************
-Instructions on how to use the Micro-Meta App in the context of the `4D Nucleome Data Portal <>`_ are coming up soon.
+Instructions on how to use the Micro-Meta App in the context of the `4D Nucleome Data Portal <https://data.4dnucleome.org>`_ are coming up soon.
 
 .. figure:: images/launch_images/4DN_launch/01_Micro-Meta-App_4DN.png
   :class: shadow-image
