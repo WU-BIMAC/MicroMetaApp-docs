@@ -9,7 +9,7 @@ In order to download and launch the Micro-Meta App from the Dropbox folder, the 
 A - Download from the Safari browser
 ************************************
 
-.. figure:: images/download_images/Safari_Dropbox_download%20and%20install_instructions.png
+.. figure:: images/download_images/Safari_Dropbox_download-install.png
   :class: shadow-image
   :width: 60%
   :align: center
@@ -21,35 +21,35 @@ B - Download from the Chrome browser
 ************************************
 Step 1
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download%20and%20install_instructions_1.png
+.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download-install_1.png
 
 Step 2
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download%20and%20install_instructions_2.png
+.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download-install_2.png
 
 Step 3
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download%20and%20install_instructions_3.png
+.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download-install_3.png
 
 Step 4
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download%20and%20install_instructions_4.png
+.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download-install_4.png
 
 *************************************
 C - Download from the Firefox browser
 *************************************
 Step 1
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download%20and%20install_instructions_1.png
+.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download-install_1.png
 
 Step 2
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download%20and%20install_instructions_2.png
+.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download-install_2.png
 
 Step 3
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download%20and%20install_instructions_3.png
+.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download-install_3.png
 
 Step 4
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download%20and%20install_instructions_4.png
+.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download-install_4.png
