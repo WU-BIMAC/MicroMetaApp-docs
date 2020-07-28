@@ -78,7 +78,7 @@ Step 2
 
 Step 3
 ======
-. figure:: images/download_images/Firefox_Dropbox_download-install_3.png
+.. figure:: images/download_images/Firefox_Dropbox_download-install_3.png
   :class: shadow-image
   :width: 90%
   :align: center
