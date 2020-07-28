@@ -21,7 +21,7 @@ Select the Tier level you are interested in and click on “Create microscope”
 
   Click on the Tier selection menu.
 
-
+--------
 .. figure:: images/use_images/02_Select Tier_2.png
   :class: shadow-image
   :width: 90%
