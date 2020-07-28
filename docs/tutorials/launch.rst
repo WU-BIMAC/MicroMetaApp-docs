@@ -48,7 +48,7 @@ Step 4
 ======
 In order to see the microscopes, you will have to access the data owned by Alex Rigano (see Figure).
 
-.. figure:: .. figure:: images/launch_images/OMERO_launch/03_Micro-Meta App_OMERO.png
+.. figure:: images/launch_images/OMERO_launch/03_Micro-Meta App_OMERO.png
   :class: shadow-image
   :width: 90%
   :align: center
@@ -59,7 +59,7 @@ Step 5
 ======
 Now you will see the “Microscope” project and you will be able to see the available attached microscope-files.
 
-.. figure:: .. figure:: images/launch_images/OMERO_launch/04_Micro-Meta App_OMERO.png
+.. figure:: images/launch_images/OMERO_launch/04_Micro-Meta App_OMERO.png
   :class: shadow-image
   :width: 90%
   :align: center
