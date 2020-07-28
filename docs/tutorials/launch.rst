@@ -8,12 +8,12 @@ A - Launching the standalone version of Micro-Meta App.
 *******************************************************
 Locate the Micro-Meta App on your local computer and double click on the icon to launch it. After launching the App select the Home folder where all saved Microscope files will be stored on your local computer and hit Confirm.
 
-.. figure:: images/download_images/Safari_Dropbox_download-install.png
+.. figure:: images/launch_images/Stand-alone_launch/01_Select_home-folder.png
   :class: shadow-image
   :width: 90%
   :align: center
 
-  Figure 1: Downloading Micro-Meta App from Dropbox using Safari.
+  Figure 1: Select home folder where Microscope files will be locally saved.
 
 *********************************************************
 B - Launching the Micro-Meta App from the 4DN Data Portal
@@ -33,7 +33,7 @@ Step 2
 ======
 Use the OMERO login credentials provided to you by the UMMS-PMM OMERO server administrator (if you do not have them please contact: Caterina at caterina.strambio@umassmed.edu or Alex at alessandro.rigano@umassmed.edu) to login into OMERO.
 
-.. figure:: images/launch_images/OMERO_launch/01_Micro-Meta App_OMERO.png
+.. figure:: images/launch_images/OMERO_launch/01_Micro-Meta-App_OMERO.png
   :class: shadow-image
   :width: 90%
   :align: center
@@ -48,23 +48,23 @@ Step 4
 ======
 In order to see the microscopes, you will have to access the data owned by Alex Rigano (see Figure).
 
-.. figure:: images/launch_images/OMERO_launch/03_Micro-Meta App_OMERO.png
+.. figure:: images/launch_images/OMERO_launch/03_Micro-Meta-App_OMERO.png
   :class: shadow-image
   :width: 90%
   :align: center
 
-  Figure 3: Switch user to access saved Microscope files.
+  Figure 3: Switch user to access the dedicated Microscopes dataset to save Microscope files.
 
 Step 5
 ======
 Now you will see the “Microscope” project and you will be able to see the available attached microscope-files.
 
-.. figure:: images/launch_images/OMERO_launch/04_Micro-Meta App_OMERO.png
+.. figure:: images/launch_images/OMERO_launch/04_Micro-Meta-App_OMERO.png
   :class: shadow-image
   :width: 90%
   :align: center
 
-  Figure 4: Launch Micro-Meta App.
+  Figure 4: Launch the OMERO Micro-Meta App plugin.
 
 Step 6
 ======
