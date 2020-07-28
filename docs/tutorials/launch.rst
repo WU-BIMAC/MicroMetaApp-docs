@@ -18,7 +18,14 @@ Locate the Micro-Meta App on your local computer and double click on the icon to
 *********************************************************
 B - Launching the Micro-Meta App from the 4DN Data Portal
 *********************************************************
-Instructions on how to use the Micro-Meta App from the 4DN Data Portal are coming up soon.
+Instructions on how to use the Micro-Meta App in the context of the `4D Nucleome Data Portal <>`_ are coming up soon.
+
+.. figure:: images/launch_images/4DN_launch/01_Micro-Meta App_4DN.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Figure 2: Micro-Meta App can be used in the context of the 4D Nucleome Data Portal.
 
 *************************************************
 C - Launching the Micro-Meta App OMERO.web plugin
@@ -38,7 +45,7 @@ Use the OMERO login credentials provided to you by the UMMS-PMM OMERO server adm
   :width: 90%
   :align: center
 
-  Figure 2: Login into the OMERO server.
+  Figure 3: Login into the OMERO server.
 
 Step 3
 ======
@@ -53,7 +60,7 @@ In order to see the microscopes, you will have to access the data owned by Alex 
   :width: 90%
   :align: center
 
-  Figure 3: Switch user to access the dedicated Microscopes dataset to save Microscope files.
+  Figure 4: Switch user to access the dedicated Microscopes dataset to save Microscope files.
 
 Step 5
 ======
@@ -64,7 +71,7 @@ Now you will see the “Microscope” project and you will be able to see the av
   :width: 90%
   :align: center
 
-  Figure 4: Launch the OMERO Micro-Meta App plugin.
+  Figure 5: Launch the OMERO Micro-Meta App plugin.
 
 Step 6
 ======
