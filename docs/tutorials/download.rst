@@ -11,7 +11,7 @@ A - Download from the Safari browser
 
 .. figure:: images/download_images/Safari_Dropbox_download-install.png
   :class: shadow-image
-  :width: 60%
+  :width: 90%
   :align: center
 
   Downloading Micro-Meta App from Dropbox using Safari.
@@ -21,35 +21,75 @@ B - Download from the Chrome browser
 ************************************
 Step 1
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download-install_1.png
+.. figure:: images/download_images/Chrome_Dropbox_download-install_1.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Select the appropriate version to download depending on your operating system.
 
 Step 2
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download-install_2.png
+.. figure:: images/download_images/Chrome_Dropbox_download-install_2.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Select the destination folder for Micro-Meta App.
 
 Step 3
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download-install_3.png
+.. figure:: images/download_images/Chrome_Dropbox_download-install_3.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Locate downloaded Micro-Meta App.
 
 Step 4
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Chrome_Dropbox_download-install_4.png
+.. figure:: images/download_images/Chrome_Dropbox_download-install_4.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Un-zip and launch Micro-Meta App.
 
 *************************************
 C - Download from the Firefox browser
 *************************************
 Step 1
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download-install_1.png
+.. figure:: images/download_images/Firefox_Dropbox_download-install_1.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Select the appropriate version to download depending on your operating system.
 
 Step 2
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download-install_2.png
+.. figure:: images/download_images/Firefox_Dropbox_download-install_2.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Select the destination folder for Micro-Meta App.
 
 Step 3
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download-install_3.png
+. figure:: images/download_images/Firefox_Dropbox_download-install_3.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Locate downloaded Micro-Meta App.
 
 Step 4
 ======
-.. image:: https://github.com/WU-BIMAC/MicroMetaApp-docs/blob/master/docs/tutorials/images/download_images/Firefox_Dropbox_download-install_4.png
+.. figure:: images/download_images/Firefox_Dropbox_download-install_4.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Un-zip and launch Micro-Meta App.
