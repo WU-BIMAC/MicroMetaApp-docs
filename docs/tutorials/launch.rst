@@ -6,7 +6,7 @@ The instructions on how to launch Micro-Meta App differ depending on whether you
 *******************************************************
 A - Launching the standalone version of Micro-Meta App.
 *******************************************************
-Locate the Micro-Meta App on your local computer and double click on the icon to launch it. After launching the App select the Home folder where all saved Microscope files will be stored on your local computer and hit Confirm.
+After downloading the Micro-Meta App, locate the Micro-Meta App on your local computer and double click on the icon to launch it. After launching the App select the Home folder where all saved Microscope files will be stored on your local computer and hit Confirm.
 
 .. figure:: images/launch_images/Stand-alone_launch/01_Select_home-folder.png
   :class: shadow-image
