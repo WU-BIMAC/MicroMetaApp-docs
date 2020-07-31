@@ -110,6 +110,9 @@ After opening a new or an existing Microscope file, if available all pre-existin
 
   Figure 5: The opened TESM Microscope file with existing Hardware components.
 
+.. tip::
+  At any time in the process it is possible to click on the "Back" button to navigate back to the the opening screen to work on a different Microscope metadata file or to choose a different Tier level for the current Microscope.
+
 Step 1
 ------
 In order to add additional Hardware components, select and open one of the sections [1] on the right panel, and select a new element to add [2]. In this example, we are selecting and adding a new Objective to the Canvas.
@@ -157,14 +160,11 @@ In the case of Filters, Dichroic, and LED light sources, it is possible to add m
 
 A.4 Saving Microscope files
 ===========================
-In order to facilitate entering the require microscopy hardware metadata, the Tier level used to validate the Microscope metadata file can be changed by clicking on the Tier selector.
-When you are done with all the editing the Microscope file can be saved to the Repository or Home folder or exported as a file. In addition you can navigate back to the the opening screen to work on a different Microscope metadata file or to choose a different Tier level for the current Microscope.
-
-
+In order to facilitate entering the require microscopy hardware metadata over multiple sessions, before saving the Tier level used to validate the Microscope metadata file can be changed by clicking on the "Validate @Tier: " selector. After that, the Microscope metadata file can be can be saved to the Repository/Home folder or exported as a file by clicking on the "Save microscope" selector. Finally, after saving a Microscope metadata file, it is possible to navigate back to the Micro-Meta App opening screen to work on a different Microscope metadata file or to choose a different Tier level for the current Microscope.
 
 .. figure:: images/use_images/14_Change_Validation-Tier.png
   :class: shadow-image
   :width: 90%
   :align: center
 
-  Figure 10: Navigating back to the opening screen, changing validation Tier, and saving the Microscope metadata file.
+  Figure 10: Changing validation Tier, saving the Microscope metadata file, and navigating back to the opening screen.
