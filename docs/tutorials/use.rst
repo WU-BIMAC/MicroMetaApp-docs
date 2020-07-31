@@ -40,14 +40,6 @@ A.2 Creating from scratch
 
 After selecting “Create from scratch”, hit “Confirm” and an empty Canvas will appear. To start building a new Microscope file, first hit “Edit Microscope”, enter the required attributes and hit “Confirm”. To add Hardware components follow instructions below.
 
-.. figure:: images/use_images/03_Create_from_scratch.png
-  :class: shadow-image
-  :width: 90%
-  :align: center
-
-  Figure 3: Select “Create from scratch” to create a new Microscope file.
-
-
 A.2 Loading from file
 =====================
 
