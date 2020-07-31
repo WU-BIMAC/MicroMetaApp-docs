@@ -6,7 +6,9 @@ This section contains step-by-step instructions on how to download, launch, and 
 
 .. toctree::
   :maxdepth: 2
-
-.. download
+  
   launch
   use
+  
+.. download
+  
