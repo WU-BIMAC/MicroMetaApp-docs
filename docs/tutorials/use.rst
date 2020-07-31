@@ -103,17 +103,16 @@ A.3 Adding and Editing Hardware components to the Canvas
 ========================================================
 After opening a new or an existing Microscope file, if available all pre-existing Hardware components will appear on the Canvas. In this example the TIRF Epi-Fluorescence Structured Light Microscope `(TESM) <https://trello.com/b/BQ8zCcQC/tirf-epi-fluorescence-structured-light-microscope>`_ custom built at the University of Massachusetts Medical School `Program in Molecular Medicine <https://www.umassmed.edu/pmm>`_ by members of the `Bio-Medical Imaging Group <http://big.umassmed.edu>`_, is displayed with several existing components.
 
+.. tip::
+
+  At any time in the process it is possible to click on the "Back" button to return to the the opening screen to work on a different Microscope metadata file or to choose a different Tier level for the current Microscope.
+
 .. figure:: images/use_images/08_Open_Microscope.png
   :class: shadow-image
   :width: 90%
   :align: center
 
   Figure 5: The opened TESM Microscope file with existing Hardware components.
-
-.. tip::
-
-  At any time in the process it is possible to click on the "Back" button to navigate back to the the opening screen to work on a different Microscope metadata
-  file or to choose a different Tier level for the current Microscope.
 
 Step 1
 ------
