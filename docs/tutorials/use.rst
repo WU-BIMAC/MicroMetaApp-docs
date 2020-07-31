@@ -44,7 +44,7 @@ Click on the "Tier" selector and select the Tier level you are interested in and
 
 A.2 Creating or Opening a Microscope file
 =========================================
-After selecting the desired Tier level and clicking on "Create Microscope", to manage the Microscope hardware select one of the three options. “Create from scratch” allows you to create a new Microscope file. “Load from file” allows you to import a Microscope file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from Repository” allows you to work on a Microscope file that has already been imported in the App and you might need to modify.
+After selecting the desired Tier level, select one of the three options by clicking on the on the "Create Microscope" selector. “Create from scratch” allows to create a new Microscope file. “Load from file” allows to import a Microscope file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from repository” allows to work on a Microscope file that has already been imported in the App and you might need to modify.
 
 A.2.1 Creating from scratch
 ---------------------------
@@ -75,8 +75,8 @@ Select the desired Microscope file (i.e., those provided as Example Files with t
   Figure 2: Select the desired Microscope file to open.
 
 
-A.2.3 Loading from a repository
--------------------------------
+A.2.3 Loading from the Repository/Home folder
+---------------------------------------------
 Step 1
 ^^^^^^
 Select “Load from repository” to open an existing Microscope file to edit, and hit “Confirm”.
@@ -97,7 +97,7 @@ First select the Manufacturer of the Microscope and then select the desired Micr
   :width: 90%
   :align: center
 
-  Figure 4: Select the desired Manufacturer and Microscope file from those available in the repository.
+  Figure 4: Select the desired manufacturer and Microscope file from those available in the Repository/Home folder.
 
 A.3 Adding and Editing Hardware components to the Canvas
 ========================================================
@@ -111,6 +111,7 @@ After opening a new or an existing Microscope file, if available all pre-existin
   Figure 5: The opened TESM Microscope file with existing Hardware components.
 
 .. tip::
+
   At any time in the process it is possible to click on the "Back" button to navigate back to the the opening screen to work on a different Microscope metadata file or to choose a different Tier level for the current Microscope.
 
 Step 1
