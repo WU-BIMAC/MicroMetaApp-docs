@@ -14,12 +14,12 @@ Step 1
 ------
 Select the Tier level you are interested in and click on “Create microscope”.
 
-.. figure:: images/use_images/01_Select-Tier_1.png
-  :class: shadow-image
-  :width: 90%
-  :align: center
+.. .. figure:: images/use_images/01_Select-Tier_1.png
+..   :class: shadow-image
+..   :width: 90%
+..   :align: center
 
-  Figure 1: Click on the Tier selection menu.
+.. Figure 1: Click on the Tier selection menu.
 
 ------
 
@@ -28,7 +28,7 @@ Select the Tier level you are interested in and click on “Create microscope”
   :width: 90%
   :align: center
 
-  Figure 2: Select the desired Tier level.
+  Figure 1: Select the desired Tier level.
 
 
 Step 2
@@ -45,26 +45,26 @@ A.2 Loading from file
 
 Step 1
 ------
-After selecting “Load from file”, hit “Confirm” and click to select an existing Microscope file obtained from a third party  (i.e., those provided as Example Files with the App).
+After selecting “Load from file”, hit “Confirm” and click to select an existing Microscope file obtained from a third party.
 
-.. figure:: images/use_images/04_Load_from_file_1.png
-  :class: shadow-image
-  :width: 90%
-  :align: center
+.. .. figure:: images/use_images/04_Load_from_file_1.png
+..   :class: shadow-image
+..   :width: 90%
+..   :align: center
 
-  Figure 4: Select “Load from file” to open an existing third-party Microscope file.
+..  Figure 2: Select “Load from file” to open an existing third-party Microscope file.
 
 
 Step 2
 ------
-Select the desired Microscope file, click “Open” and then hit “Confirm”.
+Select the desired Microscope file (i.e., those provided as Example Files with the App), click “Open” and then hit “Confirm”.
 
 .. figure:: images/use_images/05_Load_from_file_2.png
   :class: shadow-image
   :width: 90%
   :align: center
 
-  Figure 5: Select the desired Microscope file to open.
+  Figure 2: Select the desired Microscope file to open.
 
 
 A.3 Loading from a repository
@@ -79,7 +79,7 @@ After selecting “Load from repository”, choose the pre-existing Microscope f
   :width: 90%
   :align: center
 
-  Figure 6: Select “Load from repository” to open an existing Microscope file to edit.
+  Figure 3: Select “Load from repository” to open an existing Microscope file to edit.
 
 --------
 
@@ -88,7 +88,7 @@ After selecting “Load from repository”, choose the pre-existing Microscope f
   :width: 90%
   :align: center
 
-  Figure 7: Select the desired Manufacturer and Microscope file from those available in the repository.
+  Figure 4: Select the desired Manufacturer and Microscope file from those available in the repository.
 
 
 Step 2
@@ -100,7 +100,7 @@ The desired Microscope file will open and all pre-existing Hardware components w
   :width: 90%
   :align: center
 
-  Figure 8: Open the desired Microscope file.
+  Figure 5: Open the desired Microscope file.
 
 
 B. Adding and Editing Hardware components to the Canvas
@@ -115,7 +115,7 @@ In order to add an additional Hardware component, select and open one of the sec
   :width: 90%
   :align: center
 
-  Figure 9: Add a new Objective component to the Microscope canvas.
+  Figure 6: Add a new Objective component to the Microscope canvas.
 
 Step 2
 ------
@@ -127,7 +127,7 @@ Fields that are mandatory for the Tier-validation level you have selected are ma
   :width: 90%
   :align: center
 
-  Figure 10: Edit Objective’s attributes.
+  Figure 7: Edit Objective’s attributes.
 
 -----
 
@@ -136,7 +136,7 @@ Fields that are mandatory for the Tier-validation level you have selected are ma
   :width: 90%
   :align: center
 
-  Figure 11: Enter the required Objective’s attributes and Confirm to validate.
+  Figure 8: Enter the required Objective’s attributes and Confirm to validate.
 
 
 Step 3
@@ -148,7 +148,7 @@ In the case of Filters, Dichroic, and LED light sources, it is possible to add m
   :width: 90%
   :align: center
 
-  Figure 12: Add the required number of Transmittance Range components to correctly describe a multi-pass Excitation filter.
+  Figure 9: Add the required number of Transmittance Range components to correctly describe a multi-pass Excitation filter.
 
 
 C. Saving Microscope files
@@ -161,4 +161,4 @@ When you are done with all the editing the Microscope file can be saved to the R
   :width: 90%
   :align: center
 
-  Figure 14: Save the edited Microscope file.
+  Figure 10: Save the edited Microscope file.
