@@ -1,15 +1,30 @@
 ====================
 Using Micro-Meta App
 ====================
-Please follow these step by step instructions.
+
+Micro-Meta App collects Microscopy Hardware, Imaging Acquisition Settings, and Quality Control metadata on the basis of the `4DN Nucleome-BINA Microscopy Metadata Guidelines <https://arxiv.org/abs/1910.11370>`_ which are an extension of the `OME Core Model <https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html>`_ and have been developed in the context of the `4D Nucleome (4DN) initiative <https://www.4dnucleome.org/>`_ and the `Bioimaging North America <https://www.bioimagingna.org>`_ `Quality Control and Data Management Working Group <https://www.bioimagingna.org/qc-dm-wg>`_
+
+One key feature of the `4DN-BINA extension of the OME Core Model <https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v01-07>`_ is that in order to make things easier for the user, the metadata guidelines scale with experimental intent and complexity.
+Thus the 4DN-BINA extension of the OME Core Model sets up a set of `5 Tiers <https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Tier%20System/stable%20version/v01-01>`_ that sanctions which metadata information has to be provided to facilitate reproducibility and sharing of imaging data in a way that takes into account the scientific questions and techniques being used.
+
+For example, **Tier 1** is set up to represent the **Minimum Information about Fluorescence Microscopy Experiment** guidelines and it recommended when no image analysis is required for the interpretation of image data.  **Tier 3** is utilized to document **image data that requires advanced image analysis** for knowledge extraction and interpretation. Finally, **Tier 5** is recommended for the **full description of  Microscope Hardware** and should be used by both academic and commercial microscope manufacturers.
+
+In order to facilitate the documentation of Microscopy experiments, **Micro-Meta App incorporates the Tiered Guidelines concept**. As a result, when creating a brand new or when opening an existing Microscope metadata file it is first necessary to select the desired Tier level. This garners maximal flexibility as an existing Microscope metadata file can be successively opened at a higher Tier level while preserving information that had already been entered.
+
+In addition, a Microscope metadata file that is opened at a given Tier level can be later validated and saved at a lower Tier level thus facilitating the gradual accumulation of the required information across multiple sessions.
 
 ******************************************
 A. Managing Microscope Specification files
 ******************************************
+Please follow these step by step instructions.
 
 A.1 Selecting Tier level
 ========================
 Click on the "Tier" selector and select the Tier level you are interested in and click on “Create microscope”.
+
+.. tip::
+
+  Please note that a Microscope metadata file that has been opened at a given Tier level can be validated and saved at a lower level, thus facilitating the work required for full documentation by allowing it to be done over multiple sessions.
 
 .. .. figure:: images/use_images/01_Select-Tier_1.png
 ..   :class: shadow-image
@@ -86,7 +101,7 @@ First select the Manufacturer of the Microscope and then select the desired Micr
 
 A.3 Adding and Editing Hardware components to the Canvas
 ========================================================
-After opening a new or an existing Microscope file, if available all pre-existing Hardware components will appear on the Canvas. In this example the TESM microscope custom built by the BioMedical Imaging Group of the University of Massachusetts Medical School Program in Molecular Medicine, is displayed with several existing components.
+After opening a new or an existing Microscope file, if available all pre-existing Hardware components will appear on the Canvas. In this example the TIRF Epi-Fluorescence Structured Light Microscope `(TESM) <here <https://trello.com/b/BQ8zCcQC/tirf-epi-fluorescence-structured-light-microscope>`_ custom built at the University of Massachusetts Medical School `Program in Molecular Medicine <https://www.umassmed.edu/pmm>`_ by members of the `Bio-Medical Imaging Group <http://big.umassmed.edu>`_, is displayed with several existing components.
 
 .. figure:: images/use_images/08_Open_Microscope.png
   :class: shadow-image
@@ -142,12 +157,14 @@ In the case of Filters, Dichroic, and LED light sources, it is possible to add m
 
 A.4 Saving Microscope files
 ===========================
+In order to facilitate entering the require microscopy hardware metadata, the Tier level used to validate the Microscope metadata file can be changed by clicking on the Tier selector.
+When you are done with all the editing the Microscope file can be saved to the Repository or Home folder or exported as a file. In addition you can navigate back to the the opening screen to work on a different Microscope metadata file or to choose a different Tier level for the current Microscope.
 
-When you are done with all the editing the Microscope file can be saved to the Repository or Home folder or exported as a file.
 
-.. figure:: images/use_images/14_Save_Microscope.png
+
+.. figure:: images/use_images/14_Change_Validation-Tier.png
   :class: shadow-image
   :width: 90%
   :align: center
 
-  Figure 10: Save the edited Microscope file.
+  Figure 10: Navigating back to the opening screen, changing validation Tier, and saving the Microscope metadata file.
