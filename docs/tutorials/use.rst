@@ -112,7 +112,8 @@ After opening a new or an existing Microscope file, if available all pre-existin
 
 .. tip::
 
-  At any time in the process it is possible to click on the "Back" button to navigate back to the the opening screen to work on a different Microscope metadata file or to choose a different Tier level for the current Microscope.
+  At any time in the process it is possible to click on the "Back" button to navigate back to the the opening screen to work on a different Microscope metadata 
+  file or to choose a different Tier level for the current Microscope.
 
 Step 1
 ------
