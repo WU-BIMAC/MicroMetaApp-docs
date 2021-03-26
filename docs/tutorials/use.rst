@@ -149,7 +149,7 @@ Fields that are mandatory for the Tier-validation level you have selected are ma
 
 Step 3
 ------
-In the case of Filters, Dichroic, and LED light sources, it is possible to add multiple Transmittance, Reflectance, and Wavelength Ranges to reflect the multi-pass nature of the component. In order to add additional band-pass components click on “Edit Component”.  In order to edit the number of band-pass components click on + or -.  IMPORTANT: if you change the number of band-pass components after you have started adding values in the metadata fields, all un-saved values previously entered will be lost (this is obviously not great and we are planning to fix this issue in a future release. For now please accept our apologies for the temporary inconvenience).
+In the case of Light source, Filter, Dichroic, Prism, Polarization Optics and Detector, it is possible to add multiple Transmittance, Reflectance, and Wavelength Ranges to reflect the multi-pass nature of the component. In order to modify the number of available band-pass components click on “Add/Remove wavelength range or sub-components” and click on + or -.  IMPORTANT: before changing the number of band-pass components make sure all your work has been saved by clicking on "Confirm" because all unsave values will be lost (this is obviously not great and we are planning to fix this issue in a future release. For now please accept our apologies for the temporary inconvenience).
 
 .. figure:: images/use_images/12_Add_Transmittance-Range.png
   :class: shadow-image
