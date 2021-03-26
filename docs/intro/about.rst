@@ -25,4 +25,5 @@ Currently, three implementations of the Micro-Meta App are available on Github.
 3. An `OMERO plugin <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolOmero>`_ version that is only available as a pilot implementation on the UMMS-PMM instance of the OMERO server.
 
 .. tip::
-Please Note - If you want to know more about the React and OMERO plugin implementations and if you are interested in using them in your portal or OMERO server please contact: caterina.strambio@umassmed.edu.
+
+  Please Note - If you want to know more about the React and OMERO plugin implementations and if you are interested in using them in your portal or OMERO server please contact: caterina.strambio@umassmed.edu.
