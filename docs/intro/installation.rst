@@ -2,13 +2,17 @@
 Installation
 ============
 
-******************
-Download & install
-******************
+********
+Download
+********
 
-The current version of Micro-Meta App is beta v0.0.22 and the source code can be found on `GitHub <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact>`_. If you want to use it and help us testing it please contact: caterina.strambio@umassmed.edu.
+The current version of Micro-Meta App is stable beta v.0.44.0
 
-.. Download Micro-Meta App for your platform (Windows, Linux, macOS) from `GitHub <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReactElectron>`_ and install 'as normal':
+Download Micro-Meta App for your platform (Windows, Linux, macOS) from `GitHub <https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.44.0-b1-0n>`
+
+*******
+Install
+*******
 
 .. * On **Windows**, if you downloaded an ``.msi`` file then double-click on it to launch the installer
 .. * On **Windows**, if you downloaded a ``.zip`` then extract its contents and run the ``MicroMetaApp.exe`` file
