@@ -20,8 +20,10 @@ Implementations:
 ****************
 Currently, three implementations of the Micro-Meta App are available on Github.
 
-1. A `standalone version <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReactElectron>`_ implemented in Javascript Electron.
+1. A `standalone version <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReactElectron>`_ implemented in Javascript Electron which can be downloaded `here <https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.44.0-b1-0>`_
 2. A `Javascript React <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact>`_ version that can be integrated into any web portal, such as the 4DN Data Portal.
 3. An `OMERO plugin <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolOmero>`_ version that is only available as a pilot implementation on the UMMS-PMM instance of the OMERO server.
 
-To find out more, check out the tutorials to see some of what it can do.
+.. tip::
+
+  Please Note - If you want to know more about the React and OMERO plugin implementations and if you are interested in using them in your portal or OMERO server please contact: caterina.strambio@umassmed.edu.
