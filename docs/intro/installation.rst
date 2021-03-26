@@ -21,11 +21,13 @@ Install
 
 .. tip::
 
-  Note 1 - If you are using MacOS v10.15.7 or later, we recommend that you use `The Unarchiver App <https://theunarchiver.com>`_ to extract the content of the ``.zip``, instead of the native Mac unarchiver utility. In additin, please follow these instructions to launch the ``micro-meta-app-electron.app``:
+  Note - If you are using MacOS v10.15.7 or later, we recommend that you use `The Unarchiver App <https://theunarchiver.com>`_ to extract the content of the ``.zip``, instead of the native Mac unarchiver utility. 
+  In addition, please follow these instructions when you launch ``micro-meta-app-electron.app`` for the first time:
   
-  * Open the ``left-click menu`` and use the ``Open`` command
-  * In case you receive an error message the first time you launch ``micro-meta-app-electron.app``, please click ``OK`` and launch again.
-  * In case you are given a warning about opening an app from an unknown developer, please select ``Open`` to continue.
+  * Open the ``left-click menu`` and select the ``Open`` command.
+  * In case you receive an error message the first time you launch ``micro-meta-app-electron.app``, please click ``OK`` and launch again using the ``left-click menu``.
+  * The second time you launch, you might be given a warning about opening an app from an unknown developer, in that case please select ``Open`` to continue.
+  * After that, you should be able to launch the app as normal.
  
   
 
