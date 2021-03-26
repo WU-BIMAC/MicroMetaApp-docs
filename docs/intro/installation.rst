@@ -8,7 +8,7 @@ Download
 
 The current version of Micro-Meta App is stable beta v.0.44.0
 
-Download Micro-Meta App for your platform (Windows, Linux, macOS) from `GitHub <https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.44.0-b1-0n>`
+Download Micro-Meta App for your platform (Windows, Linux, macOS) from `GitHub <https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.44.0-b1-0n>`_
 
 *******
 Install
