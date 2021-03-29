@@ -1,6 +1,6 @@
-******************************************
-B. Managing Microscope Specification files
-******************************************
+**************************************
+B. Managing Acquisition Settings files
+**************************************
 Please follow these step by step instructions.
 
 B.1 Selecting Tier level
