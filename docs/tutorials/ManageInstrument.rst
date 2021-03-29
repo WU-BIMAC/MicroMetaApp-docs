@@ -54,7 +54,7 @@ A.2.2 Loading from file
 -----------------------
 Step 1
 ^^^^^^
-After selecting “Load from file”, hit “Confirm” and click to select an existing Microscope file obtained from a third party.
+After selecting “Load from file”, click on "Create Inverted from scratch", and select an existing Microscope file obtained from a third party.
 
 .. .. figure:: images/use_images/04_Load_from_file_1.png
 ..   :class: shadow-image
@@ -65,7 +65,7 @@ After selecting “Load from file”, hit “Confirm” and click to select an e
 
 Step 2
 ^^^^^^
-Select the desired Microscope file (i.e., those provided as Example Files with the App), click “Open” and then hit “Confirm”.
+Select the desired Microscope file (i.e., those provided as Example Files with the App), click “Open” and then hit “Continue”.
 
 .. figure:: images/use_images/05_Load_from_file_2.png
   :class: shadow-image
