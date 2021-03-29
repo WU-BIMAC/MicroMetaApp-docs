@@ -49,7 +49,7 @@ Step 1
 ^^^^^^
 Select “Load from repository” to open an existing Microscope file to work on, and hit “Continue”.
 
-.. figure:: images/use_images/06_Load_from_repository_1.png
+.. figure:: images/use_images/16_MS_Load_from_repository_1.png
   :class: shadow-image
   :width: 90%
   :align: center
@@ -69,8 +69,74 @@ First select the Manufacturer of the Microscope and then select the desired Micr
 
 B.3 Selecting the Image to be documented
 ========================================
-After opening the Microscope file describing the instrument that was used to acquire the image(s) you wich to document, select the Image data file that you wich to document using Micro-Meta App. After selecting “Load from file”, click on "Select an existing Image file you want to work on.", select the desired Image file , click “Open” and then hit “Continue”.
+After opening the Microscope file describing the instrument that was used to acquire the image(s) you wich to document, select the Image data file that you wish to document using Micro-Meta App. After selecting “Load from file”, click on "Select an existing Image file you want to work on.", select the desired Image file , click “Open” and then hit “Continue”.
 
 .. tip::
 
   Please note that after creating a Settings file, when opeining the file a second time for editing purpueses it is possible to skip the loading of the asociated image file by selecting "Skip load image".
+  
+B.4 Creating or Opening a Settings file
+=======================================
+After opening the Image data file that you wish to document using Micro-Meta App, select one of the thre options by clicking on the on the "Load settings file selector" button. “Create from scratch” allow to create a new Settings file. “Load from file” allows to import a Settings file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from repository” allows to work on a pre-existing Settings file that has already been imported in the App and you might need to modify.
+
+
+B.5 Working on a Settings file
+==============================
+After opening a new or an existing Settings file, the application will display the main Mananage Settings canvas, which allows to enter or edit metadata values pertaining to different aspects of Image Acquisition.
+
+.. tip::
+
+  At any time in the process it is possible to click on the "Back" button to return to the the opening screen to work on a different Microscope or Settings metadata file.
+
+.. figure:: images/use_images/17_MS_Manage Settings_new_1.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Figure 5: The Manage Settings window.
+  
+B.5.2 Edit general information about the Image
+----------------------------------------------
+
+
+B.5.3 Edit information about general Image acquisition conditions
+-----------------------------------------------------------------
+
+Imaging Environment
+^^^^^^^^^^^^^^^^^^^
+
+Microscope Table Settings
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Microscope Microscope Stand Settings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Microscope Sample Positioning Settings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+B.5.4 Edit information about the Objective
+------------------------------------------
+
+Objective Settings
+^^^^^^^^^^^^^^^^^^
+
+
+B.5.5 Enter or Edit information about the Image Planes
+------------------------------------------------------
+
+Inspecting and Editing imported Plane-related settings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Entering new Plane-related settings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+B.5.6 Enter or Edit information about the Image Channels
+--------------------------------------------------------
+
+Enter or Edit basic Channel-related settings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Enter advanced Channel-related settings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
