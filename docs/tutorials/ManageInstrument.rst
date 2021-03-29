@@ -48,11 +48,11 @@ After selecting the desired Tier level, select one of the four options by clicki
 
 A.2.1 Creating from scratch
 ---------------------------
-After selecting one of the two “Create Inverted/Upright from scratch”, hit “Confirm” and an empty Canvas will appear. To start building a new Microscope file, first hit “Edit Microscope”, enter the required attributes and hit “Confirm”. To add Hardware components follow instructions below.
+After selecting one of the two “Create Inverted/Upright from scratch”, hit “Continue” and an empty Canvas will appear. To start building a new Microscope file, first hit “Edit Microscope”, enter the required attributes and hit “Confirm”. To add Hardware components follow instructions below.
 
 A.2.2 Loading from file
 -----------------------
-After selecting “Load from file”, click on "Create Inverted from scratch", select the desired Microscope file (e.g., those provided as Example Files with the App), click “Open” and then hit “Continue”.
+After selecting “Load from file”, click on "Select an existing Microscope file you want to work on.", select the desired Microscope file (e.g., those provided as Example Files with the App), click “Open” and then hit “Continue”.
 
 .. figure:: images/use_images/05_Load_from_file_2.png
   :class: shadow-image
