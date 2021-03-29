@@ -93,7 +93,7 @@ After opening a new or an existing Settings file, the application will display t
   :width: 90%
   :align: center
 
-  Figure 5: The Manage Settings window.
+  Figure 5: The Manage Settings window allows to enter/edit the settings utilized to acquire a specific Image.
   
 B.5.2 Edit general information about the Image
 ----------------------------------------------
