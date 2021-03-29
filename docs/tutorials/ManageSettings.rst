@@ -49,7 +49,7 @@ Step 1
 ^^^^^^
 Select “Load from repository” to open an existing Microscope file to work on, and hit “Continue”.
 
-.. figure:: images/use_images/06_Load_from_repository_1.png
+.. figure:: images/use_images/16_MS_Load_from_repository_1.png
   :class: shadow-image
   :width: 90%
   :align: center
