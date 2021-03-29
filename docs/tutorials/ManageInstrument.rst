@@ -20,7 +20,7 @@ Please follow these step by step instructions.
 
 A.1 Selecting Tier level
 ========================
-Click on the "Tier" selector and select the Tier level you are interested in and click on “Create microscope”.
+Click on the "Tier" selector and select the Tier level you are interested in and click on “Manage Instrument”.
 
 .. tip::
 
@@ -44,28 +44,15 @@ Click on the "Tier" selector and select the Tier level you are interested in and
 
 A.2 Creating or Opening a Microscope file
 =========================================
-After selecting the desired Tier level, select one of the three options by clicking on the on the "Create Microscope" selector. “Create from scratch” allows to create a new Microscope file. “Load from file” allows to import a Microscope file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from repository” allows to work on a Microscope file that has already been imported in the App and you might need to modify.
+After selecting the desired Tier level, select one of the four options by clicking on the on the "Create mode selector" button. “Create Inverted from scratch” and “Create Upright from scratch” allow to create a new Inverted or Upright Microscope file, respectively. “Load from file” allows to import a Microscope file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from repository” allows to work on a Microscope file that has already been imported in the App and you might need to modify.
 
 A.2.1 Creating from scratch
 ---------------------------
-After selecting “Create from scratch”, hit “Confirm” and an empty Canvas will appear. To start building a new Microscope file, first hit “Edit Microscope”, enter the required attributes and hit “Confirm”. To add Hardware components follow instructions below.
+After selecting one of the two “Create Inverted/Upright from scratch”, hit “Confirm” and an empty Canvas will appear. To start building a new Microscope file, first hit “Edit Microscope”, enter the required attributes and hit “Confirm”. To add Hardware components follow instructions below.
 
 A.2.2 Loading from file
 -----------------------
-Step 1
-^^^^^^
-After selecting “Load from file”, hit “Confirm” and click to select an existing Microscope file obtained from a third party.
-
-.. .. figure:: images/use_images/04_Load_from_file_1.png
-..   :class: shadow-image
-..   :width: 90%
-..   :align: center
-
-..  Figure 2: Select “Load from file” to open an existing third-party Microscope file.
-
-Step 2
-^^^^^^
-Select the desired Microscope file (i.e., those provided as Example Files with the App), click “Open” and then hit “Confirm”.
+After selecting “Load from file”, click on "Create Inverted from scratch", select the desired Microscope file (e.g., those provided as Example Files with the App), click “Open” and then hit “Continue”.
 
 .. figure:: images/use_images/05_Load_from_file_2.png
   :class: shadow-image
@@ -79,7 +66,7 @@ A.2.3 Loading from the Repository/Home folder
 ---------------------------------------------
 Step 1
 ^^^^^^
-Select “Load from repository” to open an existing Microscope file to edit, and hit “Confirm”.
+Select “Load from repository” to open an existing Microscope file to edit, and hit “Continue”.
 
 .. figure:: images/use_images/06_Load_from_repository_1.png
   :class: shadow-image
@@ -149,7 +136,7 @@ Fields that are mandatory for the Tier-validation level you have selected are ma
 
 Step 3
 ------
-In the case of Filters, Dichroic, and LED light sources, it is possible to add multiple Transmittance, Reflectance, and Wavelength Ranges to reflect the multi-pass nature of the component. In order to add additional band-pass components click on “Edit Component”.  In order to edit the number of band-pass components click on + or -.  IMPORTANT: if you change the number of band-pass components after you have started adding values in the metadata fields, all un-saved values previously entered will be lost (this is obviously not great and we are planning to fix this issue in a future release. For now please accept our apologies for the temporary inconvenience).
+In the case of Light source, Filter, Dichroic, Prism, Polarization Optics and Detector, it is possible to add multiple Transmittance, Reflectance, and Wavelength Ranges to reflect the multi-pass nature of the component. In order to modify the number of available band-pass components click on “Add/Remove wavelength range or sub-components” and click on + or -.  IMPORTANT: before changing the number of band-pass components make sure all your work has been saved by clicking on "Confirm" because all unsave values will be lost (this is obviously not great and we are planning to fix this issue in a future release. For now please accept our apologies for the temporary inconvenience).
 
 .. figure:: images/use_images/12_Add_Transmittance-Range.png
   :class: shadow-image
