@@ -52,20 +52,7 @@ After selecting one of the two “Create Inverted/Upright from scratch”, hit �
 
 A.2.2 Loading from file
 -----------------------
-Step 1
-^^^^^^
-After selecting “Load from file”, click on "Create Inverted from scratch", and select an existing Microscope file obtained from a third party.
-
-.. .. figure:: images/use_images/04_Load_from_file_1.png
-..   :class: shadow-image
-..   :width: 90%
-..   :align: center
-
-..  Figure 2: Select “Load from file” to open an existing third-party Microscope file.
-
-Step 2
-^^^^^^
-Select the desired Microscope file (i.e., those provided as Example Files with the App), click “Open” and then hit “Continue”.
+After selecting “Load from file”, click on "Create Inverted from scratch", select the desired Microscope file (e.g., those provided as Example Files with the App), click “Open” and then hit “Continue”.
 
 .. figure:: images/use_images/05_Load_from_file_2.png
   :class: shadow-image
@@ -79,7 +66,7 @@ A.2.3 Loading from the Repository/Home folder
 ---------------------------------------------
 Step 1
 ^^^^^^
-Select “Load from repository” to open an existing Microscope file to edit, and hit “Confirm”.
+Select “Load from repository” to open an existing Microscope file to edit, and hit “Continue”.
 
 .. figure:: images/use_images/06_Load_from_repository_1.png
   :class: shadow-image
