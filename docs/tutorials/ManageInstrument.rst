@@ -20,7 +20,7 @@ Please follow these step by step instructions.
 
 A.1 Selecting Tier level
 ========================
-Click on the "Tier" selector and select the Tier level you are interested in and click on “Create microscope”.
+Click on the "Tier" selector and select the Tier level you are interested in and click on “Manage Instrument”.
 
 .. tip::
 
@@ -44,11 +44,11 @@ Click on the "Tier" selector and select the Tier level you are interested in and
 
 A.2 Creating or Opening a Microscope file
 =========================================
-After selecting the desired Tier level, select one of the three options by clicking on the on the "Create Microscope" selector. “Create from scratch” allows to create a new Microscope file. “Load from file” allows to import a Microscope file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from repository” allows to work on a Microscope file that has already been imported in the App and you might need to modify.
+After selecting the desired Tier level, select one of the four options by clicking on the on the "Create mode selector" button. “Create Inverted from scratch” and “Create Upright from scratch” allow to create a new Inverted or Upright Microscope file, respectively. “Load from file” allows to import a Microscope file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from repository” allows to work on a Microscope file that has already been imported in the App and you might need to modify.
 
 A.2.1 Creating from scratch
 ---------------------------
-After selecting “Create from scratch”, hit “Confirm” and an empty Canvas will appear. To start building a new Microscope file, first hit “Edit Microscope”, enter the required attributes and hit “Confirm”. To add Hardware components follow instructions below.
+After selecting one of the two “Create Inverted/Upright from scratch”, hit “Confirm” and an empty Canvas will appear. To start building a new Microscope file, first hit “Edit Microscope”, enter the required attributes and hit “Confirm”. To add Hardware components follow instructions below.
 
 A.2.2 Loading from file
 -----------------------
