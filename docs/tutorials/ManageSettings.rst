@@ -33,7 +33,7 @@ After selecting the desired Tier level, select the Microscope file describing th
 
 B.2.1 Loading from file
 -----------------------
-After selecting “Load from file”, click on "Select an existing Microscope file you want to work on.", select the desired Microscope file , click “Open” and then hit “Continue”.
+After selecting “Load from file”, click on "Select an existing Microscope file you want to work on.", select the desired Microscope file (e.g., one that you might have received from a colleague) , click “Open” and then hit “Continue”.
 
 .. figure:: images/use_images/05_Load_from_file_2.png
   :class: shadow-image
@@ -47,14 +47,14 @@ B.2.2 Loading from the Repository/Home folder
 ---------------------------------------------
 Step 1
 ^^^^^^
-Select “Load from repository” to open an existing Microscope file to edit, and hit “Continue”.
+Select “Load from repository” to open an existing Microscope file to work on, and hit “Continue”.
 
 .. figure:: images/use_images/06_Load_from_repository_1.png
   :class: shadow-image
   :width: 90%
   :align: center
 
-  Figure 3: Select “Load from repository” to open an existing Microscope file to edit.
+  Figure 3: Select “Load from repository” to open an existing Microscope file to work on.
 
 Step 2
 ^^^^^^
