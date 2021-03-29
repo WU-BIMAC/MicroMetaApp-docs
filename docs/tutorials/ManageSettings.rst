@@ -87,9 +87,9 @@ After opening a new or an existing Settings file, the application will display t
 .. tip::
 
   At any time in the process it is possible to click on the "Back" button to return to the the opening screen to work on a different Microscope or Settings metadata file.
-  
 
-.. figure:: images/use_images/17_MS_Manage Settings_new_1.png
+
+.. figure:: images/use_images/17_MS_Manage_Settings_new_1.png
   :class: shadow-image
   :width: 90%
   :align: center
