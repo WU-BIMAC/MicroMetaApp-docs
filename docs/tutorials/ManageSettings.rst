@@ -96,11 +96,7 @@ After opening a new or an existing Settings file, the application will display t
 
   Figure 5: The Manage Settings window allows to enter/edit the settings utilized to acquire a specific Image.
   
-B.5.1 Edit general information about the Image
-----------------------------------------------
-
-
-B.5.2 Enter general Image acquisition settings
+B.5.1 Enter general Image acquisition settings
 ----------------------------------------------
 Micro-Meta App allows to select the specific Microscope harware compoentes that were used to acquire a specific image and enter settings associated with each component. This section of the application allows to manage Imaging Environment, Microscope Table, Microscope Stand, Objecive and Sample Positioning Settings (Figure 6).
 
@@ -112,7 +108,7 @@ Micro-Meta App allows to select the specific Microscope harware compoentes that 
   Figure 6: The Manage Settings window allows to select specific Microscope harware components and enter their associated settings.
 
 
-B.5.3 Εnter/Edit basic Channel settings
+B.5.2 Εnter/Edit basic Channel settings
 ---------------------------------------
 Micro-Meta App allows to define the basic configuration of individual Image Channels.
 
