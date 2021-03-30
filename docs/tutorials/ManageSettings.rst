@@ -98,7 +98,8 @@ After opening a new or an existing Settings file, the application will display t
   
 B.5.1 Enter general Image acquisition settings
 ----------------------------------------------
-Micro-Meta App allows to select the specific Microscope harware compoentes that were used to acquire a specific image and enter settings associated with each component. This section of the application allows to manage Imaging Environment, Microscope Table, Microscope Stand, Objecive and Sample Positioning Settings (Figure 6).
+Micro-Meta App allows to select the specific Microscope harware compoentes that were used to acquire a specific image and enter settings associated with each component. In the main window of Manage Settings the user can access different sections of the Image Acquisition Settings metadata by pressing different buttons and launching of the corresponding metadata collection windows. 
+In the example below (Figure 6), clicking the Edit image settings button [1.1] opens the metadata entry form for general Image structure metadata (i.e., Pixels; 1.2]. In addition, the Edit Planes button [2.1] opens an interface where all available image Planes are displayed [2.2] to be individually accessed and edited [2.3]. Finally, the Edit Objective Settings button [3.1] allows to select the Objective that was used to acquire the image of interest among those available in the Microscope file [3.2] and enter the relevant Objective Settings [3.3]. The same procedure can be also used to edit Imaging Environment, Microscope Table, Microscope Stand, and Sample Positioning Settings. 
 
 .. figure:: images/use_images/18_MS_Manage_Settings_general_1.png
   :class: shadow-image
@@ -110,7 +111,7 @@ Micro-Meta App allows to select the specific Microscope harware compoentes that 
 
 B.5.2 Εnter/Edit basic Channel settings
 ---------------------------------------
-Micro-Meta App allows to define the basic configuration of individual Image Channels.
+Micro-Meta App allows to define the basic configuration of individual Image Channels (Figure 7). After clicking the Edit Channels button in the main Manage Settings window (Panel E), the user opens an interface where the list of image Channels that were found in the image file header are displayed to be individually accessed and edited. The associated Channel interface presents a button [4.1] to enter general information about the Channel [4.2] as well as a schema depicting the different components of the channel’s Light Path. In this example, the user clicks on the Light Source button [5.1] and [5.2] to select one of the available Light Sources and then enter the associated settings that were applied during image acquisition [5.3]. 
 
 .. figure:: images/use_images/19_MS_Manage_Settings_Channel_1.png
   :class: shadow-image
@@ -122,7 +123,7 @@ Micro-Meta App allows to define the basic configuration of individual Image Chan
   
 B.5.3 Εnter/Edit advanced Channel settings
 ------------------------------------------
-Micro-Meta App allows to define advanced features of the Light Path associated with each Image Channel.
+Micro-Meta App allows to define advanced features of the Light Path associated with each Image Channel (Figure 8). The Channel’s interface can be used to manage advanced features of the Light Path of individual channels by inserting additional optical elements at one of the seven insert locations associated with individual Add additional element(s) buttons [6.1]. In the example displayed, a Shutter, a Mirror, a Dichroic and a Beam Splitter are at the insertion point right after the Light Source [6.2].
 
 .. figure:: images/use_images/20_MS_Manage_Settings_Channel_2.png
   :class: shadow-image
