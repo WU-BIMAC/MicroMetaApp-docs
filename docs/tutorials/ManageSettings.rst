@@ -60,12 +60,12 @@ Step 2
 ^^^^^^
 First select the Manufacturer of the Microscope and then select the desired Microscope file you need to work on.
 
-.. figure:: images/use_images/07_Load_from_repository_2.png
-  :class: shadow-image
-  :width: 90%
-  :align: center
+.. .. figure:: images/use_images/07_Load_from_repository_2.png
+..   :class: shadow-image
+..  :width: 90%
+..  :align: center
 
-  Figure 4: Select the desired manufacturer and Microscope file from those available in the Repository/Home folder.
+..  Figure 4: Select the desired manufacturer and Microscope file from those available in the Repository/Home folder.
 
 B.3 Selecting the Image to be documented
 ========================================
