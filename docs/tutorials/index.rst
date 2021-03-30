@@ -8,6 +8,7 @@ This section contains step-by-step instructions on how to download, launch, and 
   :maxdepth: 3
 
   launch
+  use
   ManageInstrument
   ManageSettings
   VideoTutorials

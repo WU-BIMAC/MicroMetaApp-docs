@@ -1,6 +1,6 @@
-******************************************
-B. Managing Microscope Specification files
-******************************************
+**************************************
+B. Managing Acquisition Settings files
+**************************************
 Please follow these step by step instructions.
 
 B.1 Selecting Tier level
@@ -93,52 +93,40 @@ After opening a new or an existing Settings file, the application will display t
   :class: shadow-image
   :width: 90%
   :align: center
-  
 
   Figure 5: The Manage Settings window allows to enter/edit the settings utilized to acquire a specific Image.
   
-B.5.2 Edit general information about the Image
+B.5.1 Enter general Image acquisition settings
 ----------------------------------------------
+Micro-Meta App allows to select the specific Microscope harware compoentes that were used to acquire a specific image and enter settings associated with each component. This section of the application allows to manage Imaging Environment, Microscope Table, Microscope Stand, Objecive and Sample Positioning Settings (Figure 6).
+
+.. figure:: images/use_images/18_MS_Manage_Settings_general_1.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
+
+  Figure 6: The Manage Settings window allows to select specific Microscope harware components and enter their associated settings.
 
 
-B.5.3 Edit information about general Image acquisition conditions
------------------------------------------------------------------
+B.5.2 Εnter/Edit basic Channel settings
+---------------------------------------
+Micro-Meta App allows to define the basic configuration of individual Image Channels.
 
-Imaging Environment
-^^^^^^^^^^^^^^^^^^^
+.. figure:: images/use_images/19_MS_Manage_Settings_Channel_1.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
 
-Microscope Table Settings
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Microscope Microscope Stand Settings
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Microscope Sample Positioning Settings
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-B.5.4 Edit information about the Objective
+  Figure 7: Manage Settings allows to provide basic information about the configuration of individual Image Channels.
+  
+  
+B.5.3 Εnter/Edit advanced Channel settings
 ------------------------------------------
+Micro-Meta App allows to define advanced features of the Light Path associated with each Image Channel.
 
-Objective Settings
-^^^^^^^^^^^^^^^^^^
+.. figure:: images/use_images/20_MS_Manage_Settings_Channel_2.png
+  :class: shadow-image
+  :width: 90%
+  :align: center
 
-
-B.5.5 Enter or Edit information about the Image Planes
-------------------------------------------------------
-
-Inspecting and Editing imported Plane-related settings
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Entering new Plane-related settings
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-B.5.6 Enter or Edit information about the Image Channels
---------------------------------------------------------
-
-Enter or Edit basic Channel-related settings
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Enter advanced Channel-related settings
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  Figure 8: Manage Settings allows to provide advanced information about the configuration of individual Image Channels.
