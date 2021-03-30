@@ -5,11 +5,6 @@ This is a series of video tutorials
 
 Manage Instrument Videos
 ========================
-Click on the "Tier" selector and select the Tier level you are interested in and click on “Manage Instrument”.
-
-Video 01
---------
-
 
 Video 01-Download from GitHub and Install
 -----------------------------------------
@@ -28,6 +23,10 @@ Video 06_Manage Instrument-LED
 
 Video 07-Manage Instrument-Advanced components
 ----------------------------------------------
+
+
+Manage Settings Videos
+======================
 
 Video 08-Manage Settings-Launch
 -------------------------------
