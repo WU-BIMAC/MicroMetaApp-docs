@@ -75,7 +75,6 @@ After opening the Microscope file describing the instrument that was used to acq
   :class: shadow-image
   :width: 90%
   :align: center
-
   Figure 2: Select the Image file to be annotated.
 
 .. tip::
