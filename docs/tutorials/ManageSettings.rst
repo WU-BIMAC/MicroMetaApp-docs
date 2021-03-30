@@ -5,7 +5,7 @@ Please follow these step by step instructions.
 
 B.1 Selecting Tier level
 ========================
-Click on the "Tier" selector and select the Tier level you are interested in and click on “Manage Settings”.
+Click on the **Tier** selector and select the Tier level you are interested in and click on **Manage Settings**.
 
 .. tip::
 
@@ -29,11 +29,11 @@ Click on the "Tier" selector and select the Tier level you are interested in and
 
 B.2 Selecting an existing Microscope file
 =========================================
-After selecting the desired Tier level, select the Microscope file describing the instrument that was used to acquire the image(s) you wich to document, among one of the available Microscope files. There are two options for doing: “Load from file” allows to import a Microscope file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from repository” allows to open a Microscope file that has already been imported in the App.
+After selecting the desired Tier level, select the Microscope file describing the instrument that was used to acquire the image(s) you wich to document, among one of the available Microscope files. There are two options for doing this: **Load from file** allows to import a Microscope file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). **Load from repository** allows to open a Microscope file that has already been imported in the App.
 
 B.2.1 Loading from file
 -----------------------
-After selecting “Load from file”, click on "Select an existing Microscope file you want to work on.", select the desired Microscope file (e.g., one that you might have received from a colleague) , click “Open” and then hit “Continue”.
+After selecting **Load from file**, click on **Select an existing Microscope file you want to work on.**, select the desired Microscope file (e.g., one that you might have received from a colleague) , click **Open** and then hit **Continue**.
 
 .. .. figure:: images/use_images/05_Load_from_file_2.png
 ..  :class: shadow-image
@@ -47,14 +47,14 @@ B.2.2 Loading from the Repository/Home folder
 ---------------------------------------------
 Step 1
 ^^^^^^
-Select “Load from repository” to open an existing Microscope file to work on, and hit “Continue”.
+Select **Load from repository** to open an existing Microscope file to work on, and hit **Continue**.
 
 .. figure:: images/use_images/16_MS_Load_from_repository_1.png
   :class: shadow-image
   :width: 90%
   :align: center
 
-  Figure 1: Select “Load from repository” to open an existing Microscope file to work on.
+  Figure 1: Select **Load from repository** to open an existing Microscope file to work on.
 
 Step 2
 ^^^^^^
@@ -69,22 +69,22 @@ First select the Manufacturer of the Microscope and then select the desired Micr
 
 B.3 Selecting the Image to be documented
 ========================================
-After opening the Microscope file describing the instrument that was used to acquire the image(s) you wich to document, select the Image data file that you wish to document using Micro-Meta App. After selecting “Load from file”, click on **Select an existing Image file you want to work on**, select the desired Image file, click “Open” and then hit “Continue”.
+After opening the Microscope file describing the instrument that was used to acquire the image(s) you wich to document, select the Image data file that you wish to document using Micro-Meta App. After selecting **Load from file**, click on **Select an existing Image file you want to work on.**, select the desired Image file, click **Open** and then hit **Continue**.
 
 .. figure:: images/use_images/16-2_MS_Load_Image_from_file_2.png
   :class: shadow-image
   :width: 90%
   :align: center
-
+  
   Figure 2: Select the Image file to be annotated.
 
 .. tip::
 
-  Please note that after creating a Settings file, when opeining the file a second time for editing purpueses it is possible to skip the loading of the asociated image file by selecting "Skip load image".
+  Please note that after creating a Settings file, when opeining the file a second time for editing purpueses it is possible to skip the loading of the asociated image file by selecting **Skip load image**.
   
 B.4 Creating or Opening a Settings file
 =======================================
-After opening the Image data file that you wish to document using Micro-Meta App, select one of the thre options by clicking on the on the "Load settings file selector" button. “Create from scratch” allow to create a new Settings file. “Load from file” allows to import a Settings file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). “Load from repository” allows to work on a pre-existing Settings file that has already been imported in the App and you might need to modify.
+After opening the Image data file that you wish to document using Micro-Meta App, select one of the thre options by clicking on the on the **Load settings file selector** button. **Create from scratch** allow to create a new Settings file. **Load from file** allows to import a Settings file that has not been loaded in the App yet (i.e., a Microscope file you might have received from someone else). **Load from repository** allows to work on a pre-existing Settings file that has already been imported in the App and you might need to modify.
 
 
 B.5 Working on a Settings file
@@ -93,7 +93,7 @@ After opening a new or an existing Settings file, the application will display t
 
 .. tip::
 
-  At any time in the process it is possible to click on the "Back" button to return to the the opening screen to work on a different Microscope or Settings metadata file.
+  At any time in the process it is possible to click on the **Back** button to return to the the opening screen to work on a different Microscope or Settings metadata file.
 
 
 .. figure:: images/use_images/17_MS_Manage_Settings_new_1.png
