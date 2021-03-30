@@ -8,51 +8,63 @@ Manage Instrument Videos
 These videos explain different aspects of the Manage Instrument section of Micro-Meta App.
 
 Download from GitHub and Install
------------------------------------------
-`(Video 01) <https://vimeo.com/529609242>`_
+--------------------------------
+`Video 01 <https://vimeo.com/529609242>`_
 
 Launch App and load microscope from repository
--------------------------------------------------------
-Video 02
-
-Video 03-Manage Instrument-Filter Sets
---------------------------------------
-
-Video 04-Manage Instrument-MultiPass Filter-Dichroic
-----------------------------------------------------
-
-Video 06_Manage Instrument-LED
-------------------------------
-
-Video 07-Manage Instrument-Advanced components
 ----------------------------------------------
+`Video 02 <https://vimeo.com/529609310>`_
+
+Manage Instrument-Filter Sets
+--------------------------------------
+`Video 03 <https://vimeo.com/529613453>`_
+
+Manage Instrument-MultiPass Filter-Dichroic
+-------------------------------------------
+`Video 04 <https://vimeo.com/529613530>`_
+
+Manage Instrument-LED
+------------------------------
+`Video 05 <https://vimeo.com/529613575>`_
+
+Manage Instrument-Advanced components
+-------------------------------------
+`Video 06 <https://vimeo.com/529613602>`_
 
 
 Manage Settings Videos
 ======================
 These videos explain different aspects of the Manage Settings section of Micro-Meta App.
 
-
-Video 08-Manage Settings-Launch
+Manage Settings-Launch
 -------------------------------
+`Video 07 <https://vimeo.com/529613658>`_
 
-Video 09-Manage Settings-Image-basic
+Manage Settings-Image-basic
 ------------------------------------
+`Video 08 <https://vimeo.com/529613673>`_
 
-Video 10-Manage Settings-Image-advanced
+Manage Settings-Image-advanced
 ---------------------------------------
+`Video 09 <https://vimeo.com/529613687>`_
 
-Video 11-Manage Settings-Channels-basic
+Manage Settings-Channels-basic
 ---------------------------------------
+`Video 10 <https://vimeo.com/529613707>`_
 
-Video 12-Manage Settings-Channels-advanced
+Manage Settings-Channels-advanced
 ------------------------------------------
+`Video 11 <https://vimeo.com/529613746>`_
 
-Video 14-Manage Settings-Pixels-edit
+Manage Settings-Pixels-edit
 ------------------------------------
+`Video 12 <https://vimeo.com/529616794>`_
 
-Video 15-Manage Settings-Planes-create
+Manage Settings-Planes-create
 --------------------------------------
+`Video 13 <https://vimeo.com/529616806>`_
 
-Video 16-Manage Settings-Planes-imported
+Manage Settings-Planes-imported
 ----------------------------------------
+`Video 14 <https://vimeo.com/529616827>`_
+
