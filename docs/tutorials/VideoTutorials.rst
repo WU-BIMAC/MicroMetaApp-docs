@@ -12,7 +12,7 @@ These videos explain different aspects of the Manage Instrument section of Micro
 `Video 01 <https://vimeo.com/529609242>`_
 
 02 - Launch App and load microscope from repository
----------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 `Video 02 <https://vimeo.com/529609310>`_
 
 03 - Manage Instrument-Filter Sets
