@@ -92,7 +92,7 @@ This video explains what to do when the Manage Settings canvas is all Zoomed in 
 
 19 - Manage Settings - Common situations 2
 ------------------------------------------
-This video, σηοςσ how to deal with a situation in which a hardware component that is not validated in the Manage Instrument side of the app cannot be added in the Settings file.
+This video, shows how to deal with a situation in which a hardware component that is not validated in the Manage Instrument side of the app cannot be added in the Settings file.
 
 `Video 19 <https://vimeo.com/536929980>`_
 
