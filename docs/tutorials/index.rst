@@ -12,5 +12,6 @@ This section contains step-by-step instructions on how to download, launch, and 
   ManageInstrument
   ManageSettings
   VideoTutorials
+  VideoTutorials_2
 
 .. download
