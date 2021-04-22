@@ -9,7 +9,7 @@ Micro-Meta App collects Microscopy Hardware, Imaging Acquisition Settings, and Q
 Features include:
 *****************
 * Intuitive graphical user interface metadata collection modality
-* Compatibility with the `4DN Nucleome-BINA Microscopy Metadata Guidelines <https://arxiv.org/abs/1910.11370>`_ extension of the `OME data model <https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html>`_
+* Compatibility with the `4DN-BINA-OME (NBO) Microscopy Metadata Specifications <https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01>`_ extension of the `OME data model <https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html>`_
 * Storage of Microscope Hardware specifications metadata in re-usable  JSON files that can be exchanged with other members of the community
 * Easy to use as a standalone app
 * Easy to integrate into pre-existing repositories
@@ -20,7 +20,7 @@ Implementations:
 ****************
 Currently, three implementations of the Micro-Meta App are available on Github.
 
-1. A `standalone version <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReactElectron>`_ implemented in Javascript Electron which can be downloaded `here <https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.44.0-b1-0>`_
+1. A `standalone version <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReactElectron>`_ implemented in Javascript Electron which can be downloaded `here <https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/latest>`_
 2. A `Javascript React <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact>`_ version that can be integrated into any web portal, such as the 4DN Data Portal.
 3. An `OMERO plugin <https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolOmero>`_ version that is only available as a pilot implementation on the UMMS-PMM instance of the OMERO server.
 
