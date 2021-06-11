@@ -3,6 +3,7 @@
 Output
 ======
 Micro-Meta App produces json two kind of structured json file as output, one for the Instrument and one for the Image Acquisition Setting.
+
 The time necessary to produce a file is really based on the amount of metadata that a user wants to insert.
 
 ***************
