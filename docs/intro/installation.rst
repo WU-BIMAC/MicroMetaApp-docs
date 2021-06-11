@@ -8,6 +8,18 @@ Download
 
 The latest version of Micro-Meta App for your platform (Windows, Linux, macOS) can be downloaded from `GitHub <https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/latest>`_
 
+********
+Requirements
+********
+Hardware: none
+
+Software: Java 1.8.0 (to use the ome-bioformats based image metadata reader)
+
+OS: 
+*Windows (Tested on Win 10 Home Build: 19040, 19041, 19042, Win 10 Pro Build: 19041, Win 10 Enterprise Build: 19041)
+*MacOS (Tested on High Sierra 10.13.6, Catalina 10.15.7, Big Sur 11.5 Beta)
+
+
 *******
 Install
 *******
@@ -15,6 +27,8 @@ Install
 * On **Windows**, download the ``.zip`` then extract its contents, drag the ``micro-meta-app-electron.exe`` file to the desired location and launch it.
 * On **macOS**, download the ``.zip``, extract its content, drag ``micro-meta-app-electron.app`` to wherever you want to keep it, and launch it.
 .. * On **Linux**, download and extract the ``.tar.xz`` file
+
+Install time: less than a minute.
 
 .. tip::
 
