@@ -18,7 +18,7 @@ Requirements
 
 .. tip::
 
-  Note - In case you have issues with your Java version please check out our Tutorial videos that explain how to check your Java version and how to install the correct one and which can be found `here <https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials_2.html#manage-java-videos>`_ .
+  Note - In case you have issues with your Java version please check out our Tutorial videos that explain how to check your Java version and how to install the correct one and which can be found `here <https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials_2.html#manage-java-version>`_ .
 
 - **Operating System:**
 
