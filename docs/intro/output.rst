@@ -10,6 +10,7 @@ The time necessary to produce a file is really based on the amount of metadata t
 Instrument file
 ***************
 The following is an empty example of an Instrument file.
+
 Please note the components array could be filled with any number of json object based on the number of elements that have been added in the instrument.
 
 {
@@ -41,6 +42,7 @@ Please note the components array could be filled with any number of json object 
 Image Acquisition Setting
 *************************
 The following is an empty example of an Image Acquisition Setting file.
+
 Please note that the field "StageInsert", "FocusStabilizationDevice", "AcquisitionSoftware", "MicroscopeStandSettings", "Channels", "ObjectiveSettings", "ImagingEnvironment",  "MicroscopeTableSettings", "SamplePositioningSettings" and "Planes" may be absent in your output based on the element that you have created in the application.
 
 {
