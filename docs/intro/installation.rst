@@ -25,7 +25,7 @@ Operating System:
   * Win 8.1 Version: 6.3.9600
   * Win 10 Home Version: 10.0.19040 - 10.0.19041 - 10.0.19042
   * Win 10 Pro Version: 10.0.19041 - 10.0.19042
-  * Win 10 Enterprise Version: 10.0.18362, 10.0.19041
+  * Win 10 Enterprise Version: 10.0.18362, 10.0.19041, 10.0.19042
 * MacOS
 
   Tested on:
