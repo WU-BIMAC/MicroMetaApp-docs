@@ -7,6 +7,7 @@ Introduction
 
   about
   installation
+  example data
   citing
   acknowledgements
   help
