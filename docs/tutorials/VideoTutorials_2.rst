@@ -14,8 +14,8 @@ This video explains how to open the Micro-Meta App develpers tools, open the Con
 `Video 15 <https://vimeo.com/529609242>`_
 
 
-Manage Java Videos
-==================
+Manage Java Version
+===================
 These videos explain how to make sure your have the correct version of Java for running Micro-Meta App.
 
 16- Check Java version
