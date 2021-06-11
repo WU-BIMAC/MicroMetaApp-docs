@@ -7,7 +7,7 @@ Introduction
 
   about
   installation
-  example data
+  examples
   citing
   acknowledgements
   help
