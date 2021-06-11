@@ -8,6 +8,7 @@ Introduction
   about
   installation
   examples
+  output
   citing
   acknowledgements
   help
