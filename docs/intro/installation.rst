@@ -17,8 +17,8 @@ Software: Java 1.8.0 (to use the ome-bioformats based image metadata reader)
 
 Operating System:
 
-* Windows (Tested on Win 10 Home Build: 19040, 19041, 19042, Win 10 Pro Build: 19041, Win 10 Enterprise Build: 19041)
-* MacOS (Tested on High Sierra 10.13.6, Catalina 10.15.7, Big Sur 11.5 Beta)
+* Windows (Tested on Win 10 Home Build: 19040/19041/19042, Win 10 Pro Build: 19041, Win 10 Enterprise Build: 19041)
+* MacOS (Tested on High Sierra 10.13.6, Catalina 10.15.7, Big Sur 11.0/11.1/11.2/11.3/11.4/11.5 Beta)
 
 
 *******
