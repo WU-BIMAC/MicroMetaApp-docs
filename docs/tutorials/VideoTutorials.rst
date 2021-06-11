@@ -15,7 +15,7 @@ Use these videos to get started with using Micro-Meta App after downloading the 
 
 `Part 1/2 <https://vimeo.com/562022222>`_
 
-`Part 2/2 <https://vimeo.com/562022222>`_
+`Part 2/2 <https://vimeo.com/562022281>`_
 
 
 
