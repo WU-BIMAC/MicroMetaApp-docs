@@ -3,6 +3,12 @@ Micro Meta App Video Tutorials
 ******************************
 This is a series of video tutorials to help you get started with the Micro-Meta App.
 
+Introduction
+============
+This video was used to introduce the use of Micro-Meta App for an introductory Microscopy graduate course at UMass Medical School.
+
+`Micro-Meta App-an introduction <https://vimeo.com/557097919>`_
+
 Manage Instrument Videos
 ========================
 These videos explain different aspects of the Manage Instrument section of Micro-Meta App.
