@@ -9,6 +9,16 @@ This video was used to introduce the use of Micro-Meta App for an introductory M
 
 `Micro-Meta App-an introduction <https://vimeo.com/557097919>`_
 
+Using Example Data Files
+========================
+Use these videos to get started with using Micro-Meta App after downloading the example data files available on `Zenodo <https://doi.org/10.5281/zenodo.4891883>`_
+
+`Part 1/2 <https://vimeo.com/562022222>`_
+
+`Part 2/2 <https://vimeo.com/562022222>`_
+
+
+
 Manage Instrument Videos
 ========================
 These videos explain different aspects of the Manage Instrument section of Micro-Meta App.
