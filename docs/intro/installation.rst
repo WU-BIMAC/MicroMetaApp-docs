@@ -17,7 +17,7 @@ Software: Java 1.8.0 (to use the ome-bioformats based image metadata reader)
 
 Operating System:
 
-* Windows x32 (Untested)
+* Windows x32
 * Windows x64
 
   Tested on:
