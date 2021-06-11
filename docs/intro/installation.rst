@@ -24,7 +24,7 @@ Operating System:
   
   * Win 10 Home Build: 19040 - 19041 - 19042
   * Win 10 Pro Build: 19041 - 19042
-  * Win 10 Enterprise Build: 18362, 19041)
+  * Win 10 Enterprise Build: 18362, 19041
 * MacOS
 
   Tested on:
