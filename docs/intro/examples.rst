@@ -1,4 +1,4 @@
-========
-Examples
-========
-At our `Zenodo page <https://zenodo.org/record/4891883#.YMKvb_lKg60>`_ it is possible to download our example `Instrument File <https://zenodo.org/record/4891883/files/rigano_et_al._figure_5_usecase_biomedical_imaging_group_tesm.json?download=1>`_, `Image Aquisition Setting File <https://zenodo.org/record/4891883/files/rigano_et_al._figure_5_usecase_as_fswt-6hvirus-10minfix-stk_4-epi.tif.json?download=1>`_ and the acquired `Image <https://zenodo.org/record/4891883/files/FSWT-6hVirus-10minFIX-stk_4-EPI.tif.ome.tif?download=1>`_.
+==================
+Example Data Files
+==================
+At our `Zenodo page <https://zenodo.org/record/4891883#.YMKvb_lKg60>`_ it is possible to download an example `raw image data file <https://zenodo.org/record/4891883/files/FSWT-6hVirus-10minFIX-stk_4-EPI.tif.ome.tif?download=1>`_ to be documented, and the associated `Microscope.JSON <https://zenodo.org/record/4891883/files/rigano_et_al._figure_5_usecase_biomedical_imaging_group_tesm.json?download=1>`_ and `Settings.JSON <https://zenodo.org/record/4891883/files/rigano_et_al._figure_5_usecase_as_fswt-6hvirus-10minfix-stk_4-epi.tif.json?download=1>`_ that were created using Micro-Meta App to document the Microscope Hardware Specifications of the instrument that was used to acquire the image and Image Acquisition Settings that were applied to the microscope for acquisition. 
