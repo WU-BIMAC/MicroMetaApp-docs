@@ -12,15 +12,25 @@ Please note the components array could be filled with any number of json object 
 
 {
   "Name": "MicroscopeName",
+  
   "Tier": tier,
+  
   "ValidationTier": validationTier,
+  
   "Schema_ID": "Instrument.json",
+  
   "ID": "uuid",
+  
   "Description": " ... ",
+  
   "MicroscopeStand": { ... },
+  
   "AppVersion": "versionNumber",
+  
   "ModelVersion": "versionNumber",
+  
   "components": [ ... ],
+  
   "linkedFields": { .... }
 }
 
@@ -32,24 +42,44 @@ Please note that the field "StageInsert", "FocusStabilizationDevice", "Acquisiti
 
 {
   "Name": "ImageAcquisitionSetting",
+  
   "AcquisitionDate": "day @ time",
+  
   "Schema_ID": "Image.json",
+  
   "ID": "uuid",
+  
   "Tier": tier,
+  
   "ValidationTier": validationTier,
+  
   "Description": "...",
+  
   "InstrumentName": "MicroscopeName",
+  
   "InstrumentID": "microscope uuid",
+  
   "StageInsert": [ ... ],
+  
   "FocusStabilizationDevice": [ ... ],
+  
   "AcquisitionSoftware": [ ... ],
+  
   "MicroscopeStandSettings" : [ ... ],
+  
   "Channels" : [ ... ],
+  
   "ObjectiveSettings" : { ... },
+  
   "ImagingEnvironment" : [ ... ],
+  
   "MicroscopeTableSettings" : [ ... ],
+  
   "SamplePositioningSettings" : [ ... ],
+  
   "Planes": [ ... ],
+  
   "AppVersion": "versionNumber",
+  
   "ModelVersion": "versionNumber",
   }
