@@ -20,11 +20,13 @@ Operating System:
 * Windows x32 (Untested)
 * Windows x64
   Tested on:
+  
   * Win 10 Home Build: 19040 - 19041 - 19042
   * Win 10 Pro Build: 19041 - 19042
   * Win 10 Enterprise Build: 18362, 19041)
 * MacOS
   Tested on:
+  
   * High Sierra Build: 10.13.6
   * Mojave Build: 10.14.6
   * Catalina Build: 10.15.7
