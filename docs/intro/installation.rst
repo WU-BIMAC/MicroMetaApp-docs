@@ -22,17 +22,18 @@ Operating System:
 
   Tested on:
   
-  * Win 10 Home Build: 19040 - 19041 - 19042
-  * Win 10 Pro Build: 19041 - 19042
-  * Win 10 Enterprise Build: 18362, 19041
+  * Win 8.1 Version: 6.3.9600
+  * Win 10 Home Version: 10.0.19040 - 10.0.19041 - 10.0.19042
+  * Win 10 Pro Version: 10.0.19041 - 10.0.19042
+  * Win 10 Enterprise Version: 10.0.18362, 10.0.19041
 * MacOS
 
   Tested on:
   
-  * High Sierra Build: 10.13.6
-  * Mojave Build: 10.14.6
-  * Catalina Build: 10.15.7
-  * Big Sur Build: 11.0 - 11.1 - 11.2 - 11.3 - 11.3.1 - 11.4 - 11.5 Beta
+  * High Sierra Version: 10.13.6
+  * Mojave Version: 10.14.6
+  * Catalina Verson: 10.15.7
+  * Big Sur Version: 11.0 - 11.1 - 11.2 - 11.3 - 11.3.1 - 11.4 - 11.5 Beta
 
 
 *******
