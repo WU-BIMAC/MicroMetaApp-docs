@@ -32,6 +32,7 @@ Please note the components array could be filled with any number of json object 
   "components": [ ... ],
   
   "linkedFields": { .... }
+  
 }
 
 *************************
@@ -82,4 +83,5 @@ Please note that the field "StageInsert", "FocusStabilizationDevice", "Acquisiti
   "AppVersion": "versionNumber",
   
   "ModelVersion": "versionNumber",
+  
   }
