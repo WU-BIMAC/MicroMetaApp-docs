@@ -15,6 +15,7 @@ Install
 * On **Windows**, download the ``.zip`` then extract its contents, drag the ``micro-meta-app-electron.exe`` file to the desired location and launch it.
 * On **macOS**, download the ``.zip``, extract its content, drag ``micro-meta-app-electron.app`` to wherever you want to keep it, and launch it.
 .. * On **Linux**, download and extract the ``.tar.xz`` file
+Test
 
 
 .. tip::
