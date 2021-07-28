@@ -23,9 +23,13 @@ Manage Instrument Videos
 ========================
 These videos explain different aspects of the Manage Instrument section of Micro-Meta App.
 
-01- Download from GitHub and Install
-------------------------------------
+01- Download from GitHub, Install and Launch the Micro-Meta App
+---------------------------------------------------------------
 `Video 01 <https://vimeo.com/529609242>`_
+
+.. tip::
+
+  Please note that if you intend to use the Micro-Meta App on MacOS you might encounter difficulties un-zipping and launching the MacOS Zip. To address them please follow the instructions specified starting at minute 0:47 on Video 01
 
 02 - Launch App and load microscope from repository
 ---------------------------------------------------
