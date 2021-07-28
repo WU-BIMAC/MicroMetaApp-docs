@@ -23,8 +23,8 @@ Manage Instrument Videos
 ========================
 These videos explain different aspects of the Manage Instrument section of Micro-Meta App.
 
-01- Download from GitHub, Install and Launch the Micro-Meta App
----------------------------------------------------------------
+01- Download from GitHub, Install and Launch the Micro-Meta App (special instructions for MacOS)
+------------------------------------------------------------------------------------------------
 `Video 01 <https://vimeo.com/529609242>`_
 
 .. tip::
