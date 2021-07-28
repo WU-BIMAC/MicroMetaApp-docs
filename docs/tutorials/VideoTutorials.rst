@@ -29,7 +29,7 @@ These videos explain different aspects of the Manage Instrument section of Micro
 
 .. tip::
 
-  Please note that if you intend to use the Micro-Meta App on MacOS you might encounter difficulties un-zipping and launching the MacOS Zip. To address them please follow the instructions specified starting at minute 0:47 on Video 01
+  Please note that if you intend to use Micro-Meta App **on MacOS you might encounter difficulties un-zipping and launching the MacOS Zip**. To address these issues please follow the **special instructions specified starting at minute 0:47 on Video 01**
 
 02 - Launch App and load microscope from repository
 ---------------------------------------------------
