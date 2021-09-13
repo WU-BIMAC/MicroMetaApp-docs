@@ -7,7 +7,7 @@ Introduction
 ============
 This video was used to introduce the use of Micro-Meta App for an introductory Microscopy graduate course at UMass Medical School.
 
-`Micro-Meta App-an introduction <https://vimeo.com/557097919>`_
+`Micro-Meta App-an introduction <https://vimeo.com/manage/videos/604291798>`_
 
 Using Example Data Files
 ========================
