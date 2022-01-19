@@ -26,7 +26,7 @@ First of all, check what version of Java you have on your computer. This video e
 
 17 - Make sure your Mac computer uses the correct version of Java
 -----------------------------------------------------------------
-If you are not currently running the latest version, you will need to download it from [here](https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u281-b09/89d678f2be164786b292527658ca1605/jre-8u281-linux-x64.tar.gz) and then check that the computer is using the correct version. This video explains how to check and how to fix the problem in case it does not.
+If you are not currently running the latest version, you will need to download it from [here](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html#license-lightbox) and then check that the computer is using the correct version. This video explains how to check and how to fix the problem in case it does not.
 
 `Video 17 <https://vimeo.com/536042092>`_
 
