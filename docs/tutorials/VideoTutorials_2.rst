@@ -11,7 +11,7 @@ These videos explain how to check whether Micro-Meta App is giving any errors so
 -------------------------
 This video explains how to open the Micro-Meta App develpers tools, open the Console and report any fatal errors.
 
-`Video 15 <https://vimeo.com/529609242>`_
+`Video 15 <https://vimeo.com/536023475>`_
 
 
 Manage Java Version
@@ -22,11 +22,11 @@ These videos explain how to make sure your have the correct version of Java for 
 ----------------------
 This video explains how to check what version of Java is running on your computer.
 
-`Video 16 <https://vimeo.com/529609242>`_
+`Video 16 <https://vimeo.com/536028713>`_
 
 17 - Make sure your Mac computer uses the correct version of Java
 -----------------------------------------------------------------
 This video explains how to make sure your Mac is running the latest version of Java.
 
-`Video 17 <https://vimeo.com/529609310>`_
+`Video 17 <https://vimeo.com/536042092>`_
 
